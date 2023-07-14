@@ -10,17 +10,17 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#bkgnmotiv">Background and Motivation</a></li>
+        <li><a href="#background-and-motivation">Background and Motivation</a></li>
       </ul>
       <ul>
-        <li><a href="#whatxG">What is xG?</a></li>
+        <li><a href="#what-is-xg">What is xG?</a></li>
       </ul>
       <ul>
-        <li><a href="#glossary">Glossary and Terms</a></li>
+        <li><a href="#glossary-and-terms">Glossary and Terms</a></li>
       </ul>
     </li>
-    <li><a href="#avg-data">Seasonal Average Data</a> </li>
-    <li><a href="#facts">Match Result Overview</a> </li>
+    <li><a href="#seasonal-average-data">Seasonal Average Data</a> </li>
+    <li><a href="#match-result-overview">Match Result Overview</a> </li>
 
   </ol>
 </details>
@@ -32,7 +32,7 @@ This project aims to utilise Python, Jupyther Notebook and Plotly library to vis
 - Question 2: When Arsenal start struggling on title race?
 - Question 3: How effecient is Arsenal in this season?
 
-
+<!-- Background and Motivation -->
 ### Background and Motivation
 As a Arsenal fan and data-savvy person, I am curious the story behind Arsenal's seasonal data and <b> reveal why they struggling at the end of the season</b>, losing #1 position in Premier League thus season.
 
@@ -50,8 +50,8 @@ Expected goal (xG)  is a way to measure the quality of a team or player's chance
 - SOT:Shot on Target
 
 ## Seasonal Average Data
-First, lets take a look of seasonal average data: <br>
-![seasonal_avg](https://github.com/adjsium/Arsenal-22-23/assets/88283412/6349031e-fbb1-4303-8ca0-ea960ecbc58f)
+<h4>First, lets take a look of seasonal average data:</h4>h4> <br>
+<img src="https://github.com/adjsium/Arsenal-22-23/assets/88283412/6349031e-fbb1-4303-8ca0-ea960ecbc58f?raw=true" width="700">
 <details>
   <summary>Nerdy numbers 📈</summary>
 - Point per match: 2.21053</br>
@@ -63,10 +63,13 @@ First, lets take a look of seasonal average data: <br>
 
 
 ## Match Result Overview
-Comparision on Shooting Stats and Cornering Statistics: <br>
-![Shooting:Corners](https://github.com/adjsium/Arsenal-22-23/assets/88283412/23c5cee8-ede2-4fd5-88d2-288626d7a834)
-xG/xGa Statistics by match week:
-![xG:xGa](https://github.com/adjsium/Arsenal-22-23/assets/88283412/41c2e368-0d28-429f-9f26-8f4187e52959)
+<h4>Comparision on Shooting Stats and Cornering Statistics:</h4></br>
+<img src="https://github.com/adjsium/Arsenal-22-23/assets/88283412/23c5cee8-ede2-4fd5-88d2-288626d7a834?raw=true" width="700"></br>
+<h4>xG/xGa Statistics by match week:</h4></br>
+<img src="https://github.com/adjsium/Arsenal-22-23/assets/88283412/41c2e368-0d28-429f-9f26-8f4187e52959?raw=true" width="700"></br>
 
-Expected Goals (xG) that's used to measure how good scoring chances were in football games. Crazy thing is, sometimes <b>the team with a higher xG loses</b>, and <b>the team with a lower xG wins</b>. Crazy right? This can happen because the team with more xG might choke and not score, while the other team is more efficient and scores with less chances. So basically, having a high xG doesn't guarantee winning in football games.
+Expected Goals (xG) that's used to measure how good scoring chances were in football games. Crazy thing is, sometimes <b>the team with a higher xG loses</b>, and <b>the team with a lower xG wins</b>. This can happen because the team with more xG might choke and not score, while the other team is more efficient and scores with less chances. So basically, having a high xG doesn't guarantee winning in football games.
+<h4>Shooting Accuracy</h4>
+<img src="/%20Data_Visualisation/Shots:Shots%20On%20Target.png?raw=true" width="700">
 
+As indicated by the graph, Arsenal shooting accurcy drop since mid January 2023, the accurcy is below <b>35%</b> in the following <b>10 matches</b>.
