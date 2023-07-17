@@ -21,9 +21,40 @@
     </li>
     <li><a href="#seasonal-average-data">Seasonal Average Data</a> </li>
     <li><a href="#match-result-overview">Match Result Overview</a> </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#references">References</a></li>
 
   </ol>
 </details>
+
+<h3>How to see interactive graph</h3>
+<img src="https://imgur.com/6kPobQm.gif" alt="how-to" width="400">
+<details>
+
+<summary>Open Notebook in Colab</summary>
+
+### Click into .ipynb file and open file in Google Colab
+
+[Google Colab](https://colab.research.google.com/github/adjsium/Arsenal-22-23/blob/main/Arsenal%20notebook.ipynb)
+
+<img src="https://imgur.com/t3PNxfN.png" alt="colab" width="600">
+
+### Click Runtime and Run All
+
+<img src="https://i.imgur.com/u9xzHKj.png" alt="runtime" width="600">
+
+### This notebook is connected to GitHub Click Run anyway
+<img src="https://i.imgur.com/FGma5qY.png" alt="warning" width="560">
+
+### Scroll down to see interactive plots by Plotly Library
+<img src="https://imgur.com/6kPobQm.gif" alt="how-to" width="560">
+
+</details>
+
+
+
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -50,7 +81,7 @@ Expected goal (xG)  is a way to measure the quality of a team or player's chance
 - SOT:Shot on Target
 
 ## Seasonal Average Data
-<h4>First, lets take a look of seasonal average data:</h4>h4> <br>
+<h4>First, lets take a look of seasonal average data:</h4> <br>
 <img src="https://github.com/adjsium/Arsenal-22-23/assets/88283412/6349031e-fbb1-4303-8ca0-ea960ecbc58f?raw=true" width="700">
 <details>
   <summary>Nerdy numbers 📈</summary>
@@ -73,3 +104,50 @@ Expected Goals (xG) that's used to measure how good scoring chances were in foot
 <img src="/%20Data_Visualisation/Shots:Shots%20On%20Target.png?raw=true" width="700">
 
 As indicated by the graph, Arsenal shooting accurcy drop since mid January 2023, the accurcy is below <b>35%</b> in the following <b>10 matches</b>.
+
+
+## Contributing
+
+We welcome contributions to the Arsenal 2022/2023 Premier League Data Analysis project! If you are interested in contributing, please follow the guidelines below:
+
+1. **Fork the Repository**: Start by forking this repository to your own GitHub account.
+
+2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
+
+3. **Create a Branch**: Create a new branch for your contribution. Use a descriptive branch name that reflects the nature of your work.
+
+4. **Make Changes**: Make the necessary changes or additions to the project files based on your contribution.
+
+5. **Test Your Changes**: Ensure that your changes are working as expected and do not introduce any issues.
+
+6. **Commit Your Changes**: Commit your changes with a clear and descriptive commit message.
+
+7. **Push Changes**: Push your changes to your forked repository.
+
+8. **Submit a Pull Request**: Go to the original repository on GitHub and submit a pull request. Provide a clear and detailed description of your changes and the purpose of your contribution.
+
+9. **Review and Collaboration**: The project maintainers will review your pull request, provide feedback, and collaborate with you to ensure the quality and compatibility of your contribution.
+
+Please note that by contributing to this project, you agree to license your contributions under the same open-source license as the repository.
+
+Thank you for your interest in contributing to the Arsenal 2022/2023 Premier League Data Analysis project! We appreciate your support and look forward to your valuable contributions.
+
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+The MIT License is a permissive open-source license that allows modification, distribution, and commercial use of the project's code and assets. However, it requires including the original license and copyright notice in any copies or derivatives.
+
+Contributions to this project are welcome. By contributing, you agree that your contributions will be subject to the terms of the MIT License.
+
+
+## References
+
+- [FBref](https://fbref.com/): A comprehensive football statistics website providing detailed data on teams, players, and matches.
+- [Stats Perform Opta](https://www.statsperform.com/opta/): A leading sports data provider offering advanced analytics and performance metrics.
+- [Football-Data.co.uk](https://www.football-data.co.uk/): A reliable source for football data, including historical match results and betting odds.
+
+The data and information used in this project were sourced from the above references. Please refer to the respective websites for detailed data usage and attribution requirements.
