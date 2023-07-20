@@ -72,6 +72,10 @@ The Premier League, consisting of <b> 20 teams</b> , follows a round-robin forma
 
 ### What is xG?
 Expected goal (xG)  is a way to measure the quality of a team or player's chances of<b> scoring a goal</b>. It takes into account factors like the <b>location of the shot</b>, <b>the type of shot</b>, and the <b> number of defenders </b>in the way. The higher the xG, the <b><i>more likely </i></b>a team to score.
+### Tableau Dashboard
+Building on results and proceeced data from the analysis in Python.
+Tableau public dashboard link: <a href="https://public.tableau.com/app/profile/leonardo.wu/viz/Arsenal20222023Dashboard/Dashboard1">Arsenal Dashboard</a>
+<a href="https://public.tableau.com/app/profile/leonardo.wu/viz/Arsenal20222023Dashboard/Dashboard1"><img src="https://i.imgur.com/qfglQ6c.png" width="900"></a>
 
 ### Glossary and Terms
 - GF:Goals For (sometimes used in place of GS).
